@@ -3,7 +3,7 @@ WSI-Net
 
 The Pytorch implementation of our MLMI19 oral paper [WSI-Net: Branch-based and Hierarchy-aware Network for Segmentation and Classification of Breast Histopathological Whole-slide Images](https://drive.google.com/open?id=1XBRQUKKxkAYxywSY5EqqfSDaFTy9qvmr).
 
-<div align=center><img src="examples/mlmi_overview.png" width="1289px" height="621px"/></div>
+<div align=center><img src="examples/mlmi_overview.png" width="859px" height="414px"/></div>
 
 Dependencies
 ----

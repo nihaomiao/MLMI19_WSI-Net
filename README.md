@@ -12,7 +12,7 @@ Python 2.7, Pytorch 1.0.0, opencv, libtiff, tensorboardX, etc.
 Data Preparation
 ----
 Our benchmark dataset is provided by Xiangya Hospital, [Central South University](http://en.csu.edu.cn/index.htm), which is still a private dateset now. 
-The detailed descrption of our dataset can be found in our paper. 
+The detailed description of our dataset can be found in our paper. 
 You may also utilize the other similar public datasets, 
 such as [BACH](https://iciar2018-challenge.grand-challenge.org/), 
 [Camelyon16](https://camelyon16.grand-challenge.org/) 
